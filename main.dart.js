@@ -2717,7 +2717,7 @@ var $async$dF=A.z(function(b,c){if(b===1)return A.v(c,r)
 while(true)switch(s){case 0:if($.qq.h(0,a)!=null){s=1
 break}$.ap()
 s=3
-return A.b(A.pX("/god/audio/"+a+".mp3",null,null,null,"arraybuffer",null,null),$async$dF)
+return A.b(A.pX("./audio/"+a+".mp3",null,null,null,"arraybuffer",null,null),$async$dF)
 case 3:p=c
 o=$.qq
 n=a
@@ -3966,7 +3966,7 @@ b4=q==null?m:q
 if(b4==null)b4=B.d.gD([$.ck(),$.dG(),$.cl(),$.cm(),$.dH(),$.cn(),$.co(),$.cp()])
 $.aY.sda(b4)
 s=2
-return A.b($.ap().cq("/god/i18n/"+$.aY.i().a),$async$mD)
+return A.b($.ap().cq("./i18n/"+$.aY.i().a),$async$mD)
 case 2:h=b9
 b4=J.a9(h)
 b6=b4.h(h,"texts")
@@ -13193,7 +13193,7 @@ $S:0}
 A.fM.prototype={}
 A.e7.prototype={
 ag(a,b,c,d,e,f){var s=this.a.style
-s.backgroundImage='url("/god/images/'+a+"."+b+'")'
+s.backgroundImage='url("./images/'+a+"."+b+'")'
 s.backgroundRepeat="no-repeat"
 B.c.n(s,B.c.k(s,"background-size"),"contain","")}}
 A.kh.prototype={
