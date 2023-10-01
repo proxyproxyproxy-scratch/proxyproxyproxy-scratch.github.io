@@ -3966,7 +3966,7 @@ b4=q==null?m:q
 if(b4==null)b4=B.d.gD([$.ck(),$.dG(),$.cl(),$.cm(),$.dH(),$.cn(),$.co(),$.cp()])
 $.aY.sda(b4)
 s=2
-return A.b($.ap().cq("/i18n/"+$.aY.i().a),$async$mD)
+return A.b($.ap().cq("./i18n/"+$.aY.i().a),$async$mD)
 case 2:h=b9
 b4=J.a9(h)
 b6=b4.h(h,"texts")
@@ -13193,7 +13193,7 @@ $S:0}
 A.fM.prototype={}
 A.e7.prototype={
 ag(a,b,c,d,e,f){var s=this.a.style
-s.backgroundImage='url("/images/'+a+"."+b+'")'
+s.backgroundImage='url("./images/'+a+"."+b+'")'
 s.backgroundRepeat="no-repeat"
 B.c.n(s,B.c.k(s,"background-size"),"contain","")}}
 A.kh.prototype={
