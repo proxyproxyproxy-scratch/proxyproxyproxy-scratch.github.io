@@ -2717,7 +2717,7 @@ var $async$dF=A.z(function(b,c){if(b===1)return A.v(c,r)
 while(true)switch(s){case 0:if($.qq.h(0,a)!=null){s=1
 break}$.ap()
 s=3
-return A.b(A.pX("/audio/"+a+".mp3",null,null,null,"arraybuffer",null,null),$async$dF)
+return A.b(A.pX("./audio/"+a+".mp3",null,null,null,"arraybuffer",null,null),$async$dF)
 case 3:p=c
 o=$.qq
 n=a
