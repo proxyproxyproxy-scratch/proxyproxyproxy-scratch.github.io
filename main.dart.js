@@ -4078,7 +4078,7 @@ pD(){var s=0,r=A.y(t.H),q,p,o,n,m,l,k,j,i,h
 var $async$pD=A.z(function(a,b){if(a===1)return A.v(b,r)
 while(true)switch(s){case 0:i=t.F
 h=i.a(window.location).hostname
-if(h!=null&&B.f.E(h,"app")||i.a(window.location).pathname!=="/"){i.a(window.location).href="https://godfield.net"
+if(h!=null&&B.f.E(h,"app")||false){i.a(window.location).href="https://godfield.net"
 s=1
 break}s=3
 return A.b(A.mD(),$async$pD)
