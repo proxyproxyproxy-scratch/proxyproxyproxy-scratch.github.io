@@ -39348,7 +39348,18 @@ if (typeof self === 'object') self.Ultraviolet = Ultraviolet;
 /******/ })()
 ;	
 </script>
-<script type="./uv/uv.config.js"></script>
+<script type="text/javascript">
+	self.__uv$config = {
+    prefix: '/service/',
+    bare: '/bare/',
+    encodeUrl: Ultraviolet.codec.xor.encode,
+    decodeUrl: Ultraviolet.codec.xor.decode,
+    handler: '/uv/uv.handler.js',
+    bundle: '/uv/uv.bundle.js',
+    config: '/uv/uv.config.js',
+    sw: '/uv/uv.sw.js',
+};
+</script>
 <script src="assets/js/go.js"></script>
 <script src="assets/js/proxy.js"></script>
 </body>
