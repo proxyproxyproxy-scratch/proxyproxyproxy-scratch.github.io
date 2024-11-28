@@ -5,9 +5,13 @@
     </title>
   </head>
   <body>
-    <p><input id="keyword" placeholder="Enter a keyword" style="width: 100%; padding: 10px; border: none; border-radius: 10px; color: #121212;" /></p>
+    <p><input id="keyword" placeholder="キーワードを入力" style="width: 100%; padding: 10px; border: none; border-radius: 10px; color: #121212;" /></p>
   <script>
-    const keyword = document.getElementById("keyword");
+    var keyword = document.getElementById("keyword");
+    if (keyword == "proxy" || keyword == "game" || keyword == "プロキシ" || keyword == "ゲーム"){
+      out.println("/projects.html")
+    }else{
+      out.println("not found")
   </script>
   </body>
 </html>
