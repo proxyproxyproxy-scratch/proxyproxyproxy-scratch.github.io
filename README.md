@@ -15,10 +15,10 @@ Game-source-code is almost from 3kh0-lite.
 `Welcome to 3kh0 lite, a lightweight, fast, clean game site.`
 
 `## Features`<br>
-`- Fast`
+`- Fast`<br>
 `- Clean`<br>
-`- Lightweight`
-`- Obama approves 👍`
+`- Lightweight`<br>
+`- Obama approves 👍`<br>
 
 `## Get your copy`
 
