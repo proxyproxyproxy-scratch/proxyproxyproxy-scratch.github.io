@@ -7,7 +7,8 @@ Game-source-code is almost from 3kh0-lite.
 ↓this is README.md from it repo.
 
 
-/-------------------------------------------------------------------------------------------------------------------------\
+/*
+
 #### 3kh0 *lite*
 
 ![GitHub Repo size](https://img.shields.io/github/repo-size/3kh0/3kh0-lite?style=flat&label=Repo%20size)
@@ -39,3 +40,5 @@ All the configuration is done in the `config` folder.
 ##### To-Do
 - Make it easier to add games
 - Make a better README.md
+
+*/
