@@ -10,9 +10,9 @@
     <meta name="author" content="3kh0" />
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="icon" href="/favicon.ico" />
+    <link rel="icon" href="./favicon.ico" />
     <link rel="shortcut-icon" href="/favicon.ico" />
-    <script src="/js/main.js"></script>
+    <script src="./main.js"></script>
     <style>
       p {
         text-align: center;
@@ -92,7 +92,7 @@
     <button id="back-to-top" style="display: none; position: fixed; bottom: 20px; right: 20px;">Back to top</button>
     <script>
       let games = [];
-      fetch("config/games.json")
+      fetch("games.json")
       .then((response) => response.json())
       .then((data) => {
         games = data;
