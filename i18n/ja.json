@@ -2183,7 +2183,7 @@
             "ability": "dealDamage",
             "abilityValue": 10,
             "appearanceRate": 7,
-            "name": "小悪魔"
+            "name": "よりぴー"
         },
         {
             "imageName": "medium-devil",
@@ -2191,7 +2191,7 @@
             "ability": "dealDamage",
             "abilityValue": 20,
             "appearanceRate": 5,
-            "name": "中悪魔"
+            "name": "前歯"
         },
         {
             "imageName": "large-devil",
@@ -2199,14 +2199,14 @@
             "ability": "dealDamage",
             "abilityValue": 30,
             "appearanceRate": 3,
-            "name": "大悪魔"
+            "name": "シャーペン"
         },
         {
             "imageName": "trickster",
             "category": "devils",
             "ability": "removeSomething",
             "appearanceRate": 5,
-            "name": "イタズラマン"
+            "name": "めーもん"
         },
         {
             "imageName": "charity-fairy",
@@ -2214,7 +2214,7 @@
             "ability": "boostSomething",
             "abilityValue": 10,
             "appearanceRate": 5,
-            "name": "めぐみの妖精"
+            "name": "YouTube"
         },
         {
             "imageName": "fire-whisper",
