@@ -170,7 +170,7 @@
             "atk": 5,
             "ability": "bounceWeapon",
             "price": 10,
-            "giftRate": 3,
+            "giftRate": 7,
             "name": "乱弾武剣"
         },
         {
@@ -331,7 +331,7 @@
             "atk": 10,
             "ability": "reflectWeapon",
             "price": 5,
-            "giftRate": 7,
+            "giftRate": 3,
             "name": "反射剣"
         },
         {
@@ -1736,8 +1736,8 @@
             "ability": "boostHP",
             "abilityValue": 5,
             "price": 1,
-            "giftRate": 12,
-            "name": "即時回復Ⅰ"
+            "giftRate": 2,
+            "name": "すまいるのしずく"
         },
         {
             "imageName": "heart-dew",
@@ -1745,8 +1745,8 @@
             "ability": "boostHP",
             "abilityValue": 10,
             "price": 3,
-            "giftRate": 8,
-            "name": "即時回復Ⅱ"
+            "giftRate": 3,
+            "name": "はーとのしずく"
         },
         {
             "imageName": "romance-water",
@@ -1754,7 +1754,7 @@
             "ability": "boostHP",
             "abilityValue": 15,
             "price": 5,
-            "giftRate": 4,
+            "giftRate": 2,
             "name": "アーモンドウォーター"
         },
         {
@@ -1763,8 +1763,8 @@
             "ability": "boostHP",
             "abilityValue": 20,
             "price": 20,
-            "giftRate": 1,
-            "name": "しろうとはだまっとれ牛乳"
+            "giftRate": 18,
+            "name": "天の川のおいしい水"
         },
         {
             "imageName": "smile-flower",
@@ -1772,7 +1772,7 @@
             "ability": "boostMP",
             "abilityValue": 5,
             "price": 1,
-            "giftRate": 12,
+            "giftRate": 2,
             "name": "スマイルの花"
         },
         {
@@ -1781,7 +1781,7 @@
             "ability": "boostMP",
             "abilityValue": 10,
             "price": 3,
-            "giftRate": 8,
+            "giftRate": 2,
             "name": "ハートの花"
         },
         {
@@ -1790,7 +1790,7 @@
             "ability": "boostMP",
             "abilityValue": 15,
             "price": 5,
-            "giftRate": 4,
+            "giftRate": 20,
             "name": "ロマンスの香木"
         },
         {
