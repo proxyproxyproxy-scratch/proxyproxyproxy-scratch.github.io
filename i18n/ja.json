@@ -1037,7 +1037,7 @@
             "category": "armor",
             "def": 1,
             "price": 1,
-            "giftRate": 10,
+            "giftRate": 1,
             "name": "革の帽子"
         },
         {
@@ -1081,7 +1081,7 @@
             "category": "armor",
             "def": 2,
             "price": 2,
-            "giftRate": 10,
+            "giftRate": 1,
             "name": "革の服"
         },
         {
@@ -1125,7 +1125,7 @@
             "category": "armor",
             "def": 3,
             "price": 3,
-            "giftRate": 8,
+            "giftRate": 1,
             "name": "アイアンガントレット"
         },
         {
@@ -1634,7 +1634,7 @@
             "category": "armor",
             "def": 30,
             "price": 30,
-            "giftRate": 1,
+            "giftRate": 16,
             "name": "神の盾"
         },
         {
@@ -1673,7 +1673,7 @@
             "element": "stone",
             "ability": "counter2xAtk",
             "price": 10,
-            "giftRate": 1,
+            "giftRate": 10,
             "name": "土星の指輪"
         },
         {
@@ -1727,7 +1727,7 @@
             "category": "armor",
             "ability": "reflectAnything",
             "price": 10,
-            "giftRate": 1,
+            "giftRate": 2,
             "name": "スーパーミラー"
         },
         {
