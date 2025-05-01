@@ -170,7 +170,7 @@
             "atk": 5,
             "ability": "bounceWeapon",
             "price": 10,
-            "giftRate": 7,
+            "giftRate": 3,
             "name": "乱弾武剣"
         },
         {
@@ -331,7 +331,7 @@
             "atk": 10,
             "ability": "reflectWeapon",
             "price": 5,
-            "giftRate": 3,
+            "giftRate": 7,
             "name": "反射剣"
         },
         {
