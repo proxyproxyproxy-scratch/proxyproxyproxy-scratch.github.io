@@ -450,13 +450,13 @@
             "name": "暴れフレイル"
         },
         {
-            "imageName": "evil-broadsword",
+            "imageName": "kuro",
             "category": "weapons",
             "atk": 14,
             "ability": "dealSameDamage",
             "price": 1,
             "giftRate": 1,
-            "name": "邪神の大剣"
+            "name": "クロの大剣"
         },
         {
             "imageName": "dragon-claws",
@@ -819,13 +819,13 @@
             "name": "聖剣"
         },
         {
-            "imageName": "death-s-scythe",
+            "imageName": "sine",
             "category": "weapons",
             "element": "darkness",
             "atk": 10,
             "price": 20,
             "giftRate": 1,
-            "name": "死神のカマ"
+            "name": "死ね"
         },
         {
             "imageName": "diamond-sword",
