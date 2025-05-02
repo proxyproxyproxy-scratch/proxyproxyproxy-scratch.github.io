@@ -2652,7 +2652,7 @@
             "element": "light",
             "atk": 50,
             "ability": "attackSomebody",
-            "name": "巨大なタライ"
+            "name": "巨大なシャーペン"
         },
         {
             "imageName": "black-hole",
@@ -2660,7 +2660,7 @@
             "element": "darkness",
             "atk": 30,
             "hitRate": 75,
-            "name": "ブラックホール"
+            "name": "ブラックシャーペン"
         },
         {
             "imageName": "warm-current",
@@ -2720,7 +2720,7 @@
             "phenomena": "超常現象",
             "elementsNote": "異なる属性の神器を一緒に使うと無属性になる。",
             "lightNote": "{{light}}は、{{fire}}、{{water}}、{{wood}}、{{stone}}の代わりになれる。",
-            "diseasesNote": "病は毎ターン5%の確率で自然に悪化する。",
+            "diseasesNote": "病は日頃の行いが悪いと悪化する。",
             "diseaseUpgradeNote": "病に病を重ねると悪化する。",
             "fogNote": "霧の中から敵に神器を使う場合、使用先は敵の中から無作為に選ばれる。",
             "discardNote": "武器、太陽のお守り、あぶないウスは捨てられない。",
@@ -2782,7 +2782,7 @@
             "uranus": "天王神",
             "pluto": "冥王神",
             "neptune": "海王神",
-            "venus": "金星神",
+            "venus": "金星神(ゴミ)",
             "earth": "地球神",
             "moon": "月神"
         },
@@ -2794,7 +2794,7 @@
             "uranus": "光を司る守護神",
             "pluto": "闇を司る守護神",
             "neptune": "いやしを司る守護神",
-            "venus": "お金を司る守護神",
+            "venus": "お金を司る守護神(ゴミ)",
             "earth": "神器を司る守護神",
             "moon": "奇跡を司る守護神"
         },
@@ -2810,11 +2810,11 @@
         },
         "home": {
             "design": "設計",
-            "designCredit": "グウジ",
+            "designCredit": "前歯",
             "art": "美術",
-            "artCredit": "あみ",
+            "artCredit": "2R先生",
             "userName": "預言者の名前",
-            "setUserName": "生誕する",
+            "setUserName": "同行会員以外の使用を禁じます",
             "userNameEmpty": "預言者の名前を<br>入力してください",
             "underMaintenance": "サーバメンテナンス中です",
             "versionInvalid": "アプリの更新が<br>必要です",
@@ -2903,7 +2903,7 @@
             "doNotBuy": "買わない",
             "opening": "預言者たちの戦いが<br>今始まる！",
             "tiebreaker": "- 終末の時 -",
-            "tiebreakerBody": "悪魔がやって来る",
+            "tiebreakerBody": "シャーペンがやって来る",
             "endingWin": "勝利",
             "endingDraw": "そしてだれも いなくなった",
             "removeGame": "戦いを終わる"
@@ -2973,11 +2973,11 @@
             "miracles": "MPが足りない"
         },
         "effects": {
-            "hit": "命中",
-            "miss": "外れた",
+            "hit": "命中 日頃の行い",
+            "miss": "外れた 日頃の行い",
             "darkcloud": "不可避",
             "pray": "祈った",
-            "poor": "貧乏",
+            "poor": "貧乏 日頃の行い",
             "bounce": "弾いた",
             "reflect": "はね返した",
             "block": "止めた",
@@ -2986,7 +2986,7 @@
             "hp": "HP{{hp}}",
             "mp": "MP{{mp}}",
             "cp": "¥{{cp}}",
-            "upgradeHeaven": "発作",
+            "upgradeHeaven": "発作 日頃の行い",
             "confusion": "御乱心",
             "redraw": "神器一新",
             "die": "昇天"
