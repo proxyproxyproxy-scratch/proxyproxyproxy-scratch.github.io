@@ -1893,7 +1893,7 @@
             "abilityValue": 99,
             "price": 1,
             "giftRate": 1,
-            "name": "あぶないウス"
+            "name": "あぶない肩"
         },
         {
             "imageName": "fireball",
@@ -2922,7 +2922,7 @@
             "attackTwice": "二回攻撃する",
             "attackEveryEnemy": "すべての敵に<br>攻撃する",
             "attackSomebody": "誰かに攻撃する",
-            "attractDanger": "あぶないキネから<br>99ダメージ",
+            "attractDanger": "あぶないシャーペンから<br>99ダメージ",
             "attackDyingly": "昇天のとき75%攻30",
             "filterAtkElement": "攻撃の属性を<br>こし取る",
             "bounceWeapon": "無属性武器を弾く",
@@ -2987,9 +2987,9 @@
             "mp": "MP{{mp}}",
             "cp": "¥{{cp}}",
             "upgradeHeaven": "発作 日頃の行い",
-            "confusion": "御乱心",
+            "confusion": "御乱心 日頃の行い",
             "redraw": "神器一新",
-            "die": "昇天"
+            "die": "昇天乙"
         }
     }
 }
